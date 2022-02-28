@@ -1,0 +1,239 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Right Honorable assembly, the Lords, Knights, Esquires, and Burgesses of the Honorable House of Commons in Parliament: the humble petition of the antient overseers, rulers and assistants of the Company of Watermen. VVherein is showed, how intollerably they have been abused and slandered, with false accusations, by divers refractory and abusive watermen, who have mislead many others to their faction. Their odious slanders being heere truly confuted, and the innocencie of the rulers declared. By Iohn Taylor.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95587</idno>
+            <idno type="STC">Wing T518</idno>
+            <idno type="STC">Thomason E144_25</idno>
+            <idno type="STC">ESTC R212728</idno>
+            <idno type="EEBO-CITATION">99871307</idno>
+            <idno type="PROQUEST">99871307</idno>
+            <idno type="VID">156632</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95587)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156632)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E144[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Right Honorable assembly, the Lords, Knights, Esquires, and Burgesses of the Honorable House of Commons in Parliament: the humble petition of the antient overseers, rulers and assistants of the Company of Watermen. VVherein is showed, how intollerably they have been abused and slandered, with false accusations, by divers refractory and abusive watermen, who have mislead many others to their faction. Their odious slanders being heere truly confuted, and the innocencie of the rulers declared. By Iohn Taylor.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Hammond,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴ B² .</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Watermen's Company (London, England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156632:1" rendition="simple:additions"/>
+            <p>TO The Right Honorable ASSEMBLY, The Lords, Knights, Eſquires, AND Burgeſſes of the Honorable Houſe of Commons in Parliament:</p>
+            <p>THE Humble Petition of the Antient Overſeers, Rulers and Aſſiſtants of the Company of Watermen.</p>
+            <p>
+               <hi>VVherein is ſhewed,</hi> How intollerably they have been abuſed and ſlandered, with falſe accuſations, by divers Refractory and abuſive Water-men, who have miſlead many others to their faction.</p>
+            <p>
+               <hi>Their odious ſlanders being heere truly confuted, and the In<g ref="char:EOLhyphen"/>nocencie of the Rulers declared.</hi>
+            </p>
+            <p>
+               <hi>By</hi> Iohn Taylor.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Hammond,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:156632:2"/>
+            <pb facs="tcp:156632:2"/>
+            <head>TO The Right Honourable the Aſſembly of the Knights Citizens and Burgeſſes of the Commons Houſe of Parliament. The humble Petition of the Overſeers, Rulers and Aſſiſtants of the Water-men.</head>
+            <opener>Moſt humbly Sheweth,</opener>
+            <p>THat whereas divers moneths paſt the petitioners pre<g ref="char:EOLhyphen"/>ſented to this Honorable Aſſembly, a Bill to be paſ<g ref="char:EOLhyphen"/>ſed, as an Act of Parliament for the better Govern<g ref="char:EOLhyphen"/>ment of the generallity of Water-men, which bill being twice read, was committeed. And whereas the ſaid Wa<g ref="char:EOLhyphen"/>termen exhibited a ſcandalous Petition againſt your petition<g ref="char:EOLhyphen"/>ers, thereby moſt unjuſtly charging them with diver grievan<g ref="char:EOLhyphen"/>ces, which petition was likewiſe committeed to the ſame Committee.</p>
+            <p>May it pleaſe this Honorable Aſſembly to be informed, that ſome of the Water-men (though the Bill was preferred by the conſent of ſuch who are truſted by the generallity, and con<g ref="char:EOLhyphen"/>taineth nothing but that which tendeth to the good of the Company) were ſo farre enraged, and incenſed againſt your petitioners, that they threatned to raiſe many thouſand wa<g ref="char:EOLhyphen"/>termen to be preſent at the Committee, to oppoſe your peti<g ref="char:EOLhyphen"/>tioners proceedings; And that they would cut ſome of your petitioners in pieces, and deſtroy ſome of them, as Doctor <hi>Lambe</hi> was murdered, and they ſo affronted and threatned your petitioners counſell, that (at one time) they durſt nor appeare for your petitioners at the Committee; And ſome of them, namely <hi>Joſhuah Church,</hi> boaſted, that now during this parliament-time, they were free from all Government; And needed not in any thing to obey your petitioners their Ru<g ref="char:EOLhyphen"/>lers.</p>
+            <pb facs="tcp:156632:3"/>
+            <p>Inſomuch, as by meanes thereof, divers great diſorders and outrages have been lately committed by ſome of them, even in the view of ſome of your petitioners, who for feare of be<g ref="char:EOLhyphen"/>ing murdered by them, did not dare to enterpoſe their autho<g ref="char:EOLhyphen"/>ritie.</p>
+            <p>Now for as much as by reaſon of your farre more weighty and important Affaires, you have been pleaſed for a time to ſurceaſe any farther proceedings in this our cauſe; and for that wee have Juſt cauſe to feare (touching which, ſome of us have taken our oathes before Juſtices of the peace) that except ſome provident courſe be ſpeedily taken to prevent the ſame, there will be violences offered to our perſons, to the hazzard of our lives, and many other outrages committed by the rude multitude, who (in all their courſes) are much guided and perſwaded by the ſaid <hi>Joſhuah Church.</hi>
+            </p>
+            <p>May it therefore pleaſe this Honorable Aſſembly, that it ſhall ſo ſeem good unto you in your grave wiſdoms to con<g ref="char:EOLhyphen"/>vent before you the ſaid <hi>Joſhuah Church,</hi> and the reſt above named, and ſtrictly to enjoyne them not onely to forbeare to animate and encourage the generality in their diſobed once, but (what ſhall in them lie) to perſwade them to be conform<g ref="char:EOLhyphen"/>able to the Orders, or Rules of Government, 80 yeeres paſt, eſtabliſhed by the Lords of his Majeſties privie Counſell, the Lord Mayor and Court of Aldermen and Judge of the Admi<g ref="char:EOLhyphen"/>ralty, which your petitions are by their Oathes bound to bee carefull to ſee to be performed.</p>
+            <p>And as touching the redreſse of their pretended grievances, there is a courſe preſcribed unto them by the Stature of the ſecond and third of <hi>Philip</hi> and <hi>Mary,</hi> to appeale to the Court of the L. Major and Aldermen of <hi>London,</hi> nevertheleſse your petitioners ſhall in all humbleneſse ſubmit themſelves to any other courſe to be taken therein, by this Honorable Aſsem<g ref="char:EOLhyphen"/>bly for the more ſpeedy preventing of ſuch miſchieſes, as o<g ref="char:EOLhyphen"/>therwiſe are like to enſue.</p>
+            <p>
+               <hi>And your Petitioners, as otherwiſe bound, ſhall humbly pray for the bleſſing of God, on all your Councells and reſoluti<g ref="char:EOLhyphen"/>ons.</hi>
+            </p>
+            <p>The Overſeers have alwayes ſince the <hi>Stat.</hi> 2 &amp; 3. <hi>Phil.</hi> &amp; <hi>Mary</hi> (concerning water-men) yeerly made choice of the diſ<g ref="char:EOLhyphen"/>ſcreeteſt
+<pb facs="tcp:156632:3"/>and beſt ſort of VVatermen,<note place="margin">And now, to the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntent that all t<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> world <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> take <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> &amp; know <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> many water<g ref="char:EOLhyphen"/>men ha<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> miſlead and perſwaded out of their moneys, and from all obe<g ref="char:EOLhyphen"/>dience, Rule and Order, &amp; alſo what Grievous ſlanders have been laid up<g ref="char:EOLhyphen"/>on the over<g ref="char:EOLhyphen"/>ſeers &amp; Ru<g ref="char:EOLhyphen"/>ler, on pur<g ref="char:EOLhyphen"/>poſe to bring all govern<g ref="char:EOLhyphen"/>ment into contempt, &amp; confuſion, I will relate ſome parts of the A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ticles wherewith they charge the Rulers withall in Parliament, with a true confutation of them, and diſproofe of all their moſt Jnjurious ſcandalts. Most humbly be<g ref="char:EOLhyphen"/>ſeeching, that if the Objections be proved true, Layd againſt the Rulers, they may receive ſuch deſerved puniſhment as their demerits; otherwiſe that it may be inflicted upon their unjuſt accuſers. All which we moſt humbly leave to, <hi>&amp;c.</hi>
+               </note> for election of Overſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers and Rulers (without conſent of the generality) And have yeer<g ref="char:EOLhyphen"/>ly preſented the ſame to the L. Maior, and Court of Aldermen, who have theſe 86. yeers, elected and ſworn them. And for any of the Overſeers or Aſſiſtants, receiving bribes, as they are char<g ref="char:EOLhyphen"/>ged withall; It is humbly deſired that the delinquents be puni<g ref="char:EOLhyphen"/>ſhed, if any ſuch proofes appear, whether Accuſors or Accuſed.</p>
+            <p>VVhereas they alledge, that Overſeers at firſt admittance doe take an oath of ſecrecy not to reveale the Bribes taken, or how diſpoſed of, it is humbly deſired that <hi>Rob. Gibbs, VVil. Smith, Thomas Blackman,</hi> who have been Overſeers (and are our op<g ref="char:EOLhyphen"/>poſites) be examined who adminiſtred any ſuch oath unto them</p>
+            <p>VVhereas they falfly charge the Overſeers for extorting 5 <abbr>l.</abbr> from <hi>Lau. VVatſon,</hi> before he could be made free, who having ſerved his Mr. about 6. yeeres and a half (he then being in the Kings ſervice) his Mr. and Dame dying, hee fell by Order to the diſpoſing of the Overſeers: whoſe time expited, and come<g ref="char:EOLhyphen"/>ing to be made free, the Company demanded 6 Moneths wa<g ref="char:EOLhyphen"/>ges of him (for the uſe of their poore) which was 4 <abbr>l.</abbr> 4 <abbr>s.</abbr> of which ſumme he paid the Company 30 <abbr>s.</abbr> the reſt they gave him back to buy cloathes, which was 54 <abbr>s.</abbr> which is upon the Compa<g ref="char:EOLhyphen"/>nies account, in the yeer 1629 under the Auditors hands.</p>
+            <p>Next, they accuſe the overſeers for receiving 10 <abbr>l.</abbr> of <hi>T. Gyllet,</hi> who as they ſay ſerved but 2. yeers of his time, and that the ſaid 10 <abbr>l.</abbr> ſhould privately be given as a bribe to <hi>Andr. Bartlet,</hi> to make <hi>Gyllet</hi> free, which is a ſlander, for <hi>Gyllet</hi> was in the yeer 1604. hired by one <hi>Rob. VVaſhfield,</hi> whom he ſerved above 3. yeer, and ſerved the remainder of his time with <hi>Rich. Oxford;</hi> for the 10 <abbr>l.</abbr> It was, at his making free, 1631. given to the poore of the company in open Court, the ſaid <hi>Gyllet</hi> ſtanding 28 yeers upon our Regiſter before his making free. And after in the yeer 1632. <hi>John Heather</hi> one of the Overſeers, now op<g ref="char:EOLhyphen"/>poſite) charged <hi>J. Taylor,</hi> one of the Aſſiſtants (for receiving the ſame 10 <abbr>l.</abbr> of <hi>Gyllet,</hi> as a bribe to make him free) for which ſlander, <hi>Taylor</hi> brought his Action againſt the ſlanderer, and recovered of him Coſts and Dammage, in <hi>Guild-hall.</hi>
+            </p>
+            <pb facs="tcp:156632:4"/>
+            <p>And for <hi>VVilliam Cooper</hi> ſerved one <hi>Thomas Burbydge</hi> of VVapping 3 yeers before this Maſter entered him, the ſaid <hi>Burbidge</hi> ſtill promiſing his ſervant that hee ſhould looſe no time (as was confidently affirmed by his dame, before he was made free) and after being entred for ſeven yeeres, he ſerved five yeere, and almoſt a quarter; hee gave no bribe to the company, but ſome moneys to the poore, which is paſt upon their account, 1631.</p>
+            <p>So that <hi>Cooper</hi> was 8. yeeres and a quarter on the River, be<g ref="char:EOLhyphen"/>fore his freedome.</p>
+            <p>
+               <hi>John Durfor</hi> having ſerved out his yeeres, was made free for the ordinary fine, which all other Batchellors pay, being 3 <abbr>s.</abbr> 4 <abbr>d.</abbr>
+            </p>
+            <p>And for <hi>Lewis VVatkins,</hi> the widdow <hi>Lewis</hi> her ſonne, he ſerved full 7. yeeres, and was made free in October, 1637. for the ordinary Batchellors fyne, 3 <abbr>s.</abbr> 4 <abbr>d.</abbr> without any bribe at all, yet our adverſaries are not aſhamed to ſlander us with ta- 24 <abbr>s.</abbr> 8 <abbr>d.</abbr> bribe.</p>
+            <p>VVhereas the overſeers are charged with extorting moneys from the generall, yet that for confirmation of their book of Orders, for 20. yeers laſt paſt, which is moſt untrue, for the book of Orders was confirmed in <hi>Anno</hi> 1626. and Batchelors at their making free, did of their good wills give ſome 2 <abbr>s.</abbr> ſome 2 <abbr>s.</abbr> 6 <abbr>d.</abbr> and ſome 1 <abbr>s.</abbr> or 1 <abbr>s.</abbr> 6 <abbr>d.</abbr> for the ſpace of 6. yeeres after, and never peny was taken ſince 1612. which is paſt up<g ref="char:EOLhyphen"/>on the Account under the Auditors hands, as may appeare, as <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> other moneys by them received for fines are: and it is certaine, that the Book coſt the company above 115 <abbr>l.</abbr> before it was confirmed.</p>
+            <p>
+               <hi>Abraham Plaſted</hi> pay'd nothing when hee was admitted to Rowe but a friend of his (a Fruiterer in Southwarke) did give to the poore of the Company in 1631. and is upon the account <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>Whereas they complaine that the Overſeers for a brybe, have made one <hi>Simon Keyn</hi> free, which is untrue, for hee was made free by a refference from his Maieſtie, as under a Ma<g ref="char:EOLhyphen"/>ſter of the Requeſts hand may appeare, when we are comman<g ref="char:EOLhyphen"/>ded to produce it.</p>
+            <pb facs="tcp:156632:4"/>
+            <p>And for one <hi>VVilliam Parrat,</hi> that ſhould be made free for a brybe, we know no ſuch VVatermen in the River.</p>
+            <p>And further, they charge the Overſeers with taking another brybe of ſeven Pounds for a ſervant turned over un<g ref="char:EOLhyphen"/>to him of the Goodwife <hi>Slyes,</hi> which Goodwife <hi>Sly</hi> had her husband then taken captive at <hi>Argier,</hi> with Turks, and that the Rulers did take the ſervant from the poore woman (hee b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing then all the meanes to maintaine her and 2 Children, whom the Rulers are ſlander'd to ſell <hi>Allen</hi> for 7. pound, which is alſo moſt falſe and untrue, for this ſervant, which the Ove<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſeers are ſo unjuſtly charged for contrary to our knowledges was, which <hi>John Heath</hi> one of the Overſeers now Oppoſer) who held him contrary to order, and never was paid one peny to the Hall for him: this is a moſt mallitious ſlander.</p>
+            <p>And for one <hi>Coopers</hi> ſonne, that ſhould be made Free for a bribe, we know no ſuch thing done, neither was any ſuch made free.</p>
+            <p>And for the ſervant that was croſt out of our Regeſter for miſdemeanor by <hi>H. Quenbrough</hi> his Mr. and after entred to one <hi>John Kyrkham; Kyrkam</hi> payd no bribe, though you are bold to ſay the contrary) but the ordinary charges for entrance, is 2 <abbr>s.</abbr> 2 <abbr>d.</abbr> which he is ready to affirme, and depoſe.</p>
+            <p>VVhereas the Overſeers are charged with a brybe o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 20 <abbr>s.</abbr> taken of <hi>Marrhew Pryte,</hi> for a ſervant turned unto him, which is untrue, for the Overſers tooke of him but 10 <abbr>s.</abbr> for ſelling his ſervant to his brother (being a Land man) contrary to order, which was but halfe his fyne, and it is upon the Accoun<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>And for extorting forty ſhilling from <hi>John Buck,</hi> it is falſe, for hee paid to the poore but 20 <abbr>s.</abbr> which is alſo upon the ac<g ref="char:EOLhyphen"/>count, alſo he paid the ſaid money by 4. or 3 <abbr>s.</abbr> a yeere, and was at the leaſt 4. yeeres in paying it.</p>
+            <p>And for <hi>Aaron Evans,</hi> his paying 5 <abbr>l.</abbr> for a brybe, is untrue, as he will depoſe the contrary, that he paid not the vallew of one penny.</p>
+            <p>And for <hi>Henry Lide,</hi> nothing was paid for not paying his quarteridge, though we are tax'd to take 10 <abbr>s.</abbr> neither was hee threatned to be impriſoned; for how could <hi>Lide</hi> pay Quar<g ref="char:EOLhyphen"/>teridge at the VVatermens Hall, hee being abſent 3. yeers, and from the Eaſt Indies.</p>
+            <pb facs="tcp:156632:5"/>
+            <p>And for the complaint made concerning the widdow VVright and the extorting forty ſhillings from one Cook, as a bride, that Cook ſhould have the widowes ſervant, is altogether untrue and ſcandalls are.</p>
+            <p>Wheareas M. <hi>Rob. Clark</hi> is charged to take 20 <abbr>l.</abbr> for a Bribe, of one <hi>John Clarke</hi> for an Apprentice, it is a ſlander, for the Apprentice was <hi>Rob. Clarks</hi> and he (in leiue of only 5 <abbr>l.</abbr>) did with leave, let him to <hi>John Clark</hi> for 2. yeares.</p>
+            <p>And for extorting forty ſhillings from <hi>Chriſtopher Parker,</hi> be<g ref="char:EOLhyphen"/>fore his Apprintice-hood was expir'd, is moſt vntrue, as all ſlan<g ref="char:EOLhyphen"/>ders are.</p>
+            <p>David VVilliams for keeping his ſervant 6. Moneths, contrary to order, his fines for the ſame beeing 15. ſhillings, hee paid only 8. ſhillings at the entrance of his man; which mony is vpon the Account. 16 35.</p>
+            <p>
+               <hi>Joſias Bend</hi> was committed to the Counter for abuſing the Com<g ref="char:EOLhyphen"/>pany, in ſaying, They would make any man free for money.</p>
+            <p>And for <hi>VVilliam Brewton,</hi> he brought certificate, that his time was expired before his Marriage, and the ſuggeſtions againſt us concerning him, is altogether untrue.</p>
+            <p>And for <hi>Luke furnell,</hi> paying 5 <abbr>s.</abbr> it is moſt untrue, and a meer fiction.</p>
+            <p>And for <hi>Thomas Blackman,</hi> a late Ruler, finding the Rulers to take Bribes, as he ſlanders them, Indeed he did in his time, per<g ref="char:EOLhyphen"/>ſwade the Company to make an Apprentice free for a Bribe of 6 <abbr>l.</abbr> which they would not doe; the apprentice then was not, nor yet is out of his time) and after, <hi>Blackman</hi> being put out of the Hall, he Petitioned the Lord Maior, and Court of Aldermen, with moſt untrue complaints, where he was diſproved in all his allegati<g ref="char:EOLhyphen"/>ons, and diſmiſt from any more being Ruler or Aſsiſtant, as by an order of Court, and his ſubmiſsion under his owne hand appea<g ref="char:EOLhyphen"/>reth.</p>
+            <pb facs="tcp:156632:5"/>
+            <p>Whereas the Overſeers are charged with extorting a bribe of 5 <abbr>s.</abbr> from <hi>Andrew Cuttler,</hi> for ſaving his man from whip<g ref="char:EOLhyphen"/>ping, it is very untrue, neither can any thing be proved in all that complaint.</p>
+            <p>And for the overſeers extorting 4 <abbr>l.</abbr> 3 <abbr>s.</abbr> from <hi>Thomas Har<g ref="char:EOLhyphen"/>wood</hi> is moſt untrue, hee kept a ſervant unentred eighteen moneths contrary to order, whereby his fines came to 3 <abbr>l.</abbr> And the company being at 40 <abbr>s.</abbr> charge, to bring him to conformi<g ref="char:EOLhyphen"/>tie, they received of him for all, but 25 <abbr>s.</abbr> which is paſt upon the account, 1637. alſo wee have teſtimony under the hands of moſt ſubſtantiall men in <hi>Putney,</hi> of the bad carriage, and behaviour of the ſaid <hi>Harwood;</hi> and the Rulers have alſo <hi>Har<g ref="char:EOLhyphen"/>woods</hi> Confeſſion, and ſubmiſſion under his owne hand, and his ſines to the full were more then 8 <abbr>l.</abbr>
+            </p>
+            <p>And for the extorting 5 <abbr>s.</abbr> from <hi>James Webb.</hi> it is untrue, nor did any Ruler ever ſhew ſo little diſcretion, as to be ſo fa<g ref="char:EOLhyphen"/>miliar, to drinke with an Apprentice, and to ſet him at liber<g ref="char:EOLhyphen"/>tie for a pint of Wine.</p>
+            <p>
+               <hi>Robert Browne,</hi> for being behind-hand 4. yeeres, and three quarters, and not paying his quarteridge, according to order, which is but 2 <abbr>d.</abbr> a quarter, which hee ſhould pay once a yeer, it being 3 <abbr>s.</abbr> 6 <abbr>d.</abbr>, was the 15 day of <hi>January</hi> 1639. committed to the Counter; and then hee cauſed the Company to be by Warrant brought before Maſter Recorder, who upon reading the Order for the ſame, enjoyned <hi>Browne</hi> to ſubmit himſelfe unto it, which hee did the fifth of <hi>February,</hi> 1639. and paid 5 <abbr>s.</abbr> for his time, which is paſt upon the Account, 1639.</p>
+            <p>And for the ſecond complaint concerning <hi>James Weeb.</hi> and his wife, and his ſervant, it is altogether moſt untrue and mal<g ref="char:EOLhyphen"/>licious.</p>
+            <p>
+               <hi>William Early</hi> paid his Maſter 5. of 20 <abbr>s.</abbr> for ſeeling his mans time or Apprentiſhip to himſelf, and be as a free-man, which is paſt upon the Account. 1639.</p>
+            <p>And for his Maſter, <hi>William Teero,</hi> who ſhould likewiſe have paid, hee paid no fine at all.</p>
+            <p>
+               <hi>John Middleton</hi> was committed to the Counter for abu<g ref="char:EOLhyphen"/>ſing the Overſeers in their Hall, and ſaying, Who had to doe with his mans playing at Dice, which is contrary to Appren<g ref="char:EOLhyphen"/>tices
+<pb facs="tcp:156632:6"/>Indentures, and never was any ſumme of xls. demanded of him.</p>
+            <p>Thus is truely declared Part of the fowle ſtanders which they have (not onely been ſo Jmpudent, as to prefer them in a Bill to the Homorable Houſe of Commons in Parliament; they have alſo reported the ſaid lies to many worthy Gentle<g ref="char:EOLhyphen"/>men and others (whom they have carried by water) by which meanes they cauſed many men of quallity to beleeve them, to the great diſgrace of 40 antient men, 14. of them being his Majeſties ſervants, 2. of them being Eſquiers, and the moſt of them ſubſidy-men And on the 3. of <hi>March</hi> laſt, 1641. they moſt falſly and maliciouſly affirmed before the Right Hono<g ref="char:EOLhyphen"/>rable, the L. Maior, and Court of Aldermen, that the Rulers were twice Voted againſt in Parliament, which is ſo far from truth, that it is certaine, the cauſe was yet never heard in Par<g ref="char:EOLhyphen"/>liament; and that Honourable Court will never Vote againſt men before a hearing. Thus by ſlanders, clamours, threat<g ref="char:EOLhyphen"/>nings, multitudes, noyſes, voices, moſt odious and ſhameleſſe lies carried it againſt us; ſome of them have not been ſparing to abuſe his Majeſty, to wrong the High Court of Parliament, to vilifie the Lord Maior, and Court of Aldermen, uſing all bad means (to the furthering of their Projects) againſt us; ſo that if wee ſhould write one quarter of the wrongs we have ſuffered by them, the Book would out-ſwell the patience of the Reader, but by this that hath been ſaid, the reſt may be conjectured.</p>
+            <p>There are no Governors of any Company that are in ſuch ſervile command to make account to every Idle fellow of their proceedings in their Halls, or places of meeting: nor can any Rules be ſo perfit, but ſome errors will happen, as long as men are men. But for us to be thus odiouſly traduced and ſlandered, we thought it beſt to declare it to the world, leaſt by concealing of it, we ſhould be accounted Inſenſibly ſtupid, or extreamely Guilty.</p>
+            <p>They have formerly ſlandered the Rulers with counterfeit<g ref="char:EOLhyphen"/>ing his Majeſties hand, and preſſing men into <hi>Germany,</hi> eleven yeers agoe; and that the Kings Subjects were bought and ſold for money, all which was 10 yeers paſt proved falſe, for the
+<pb facs="tcp:156632:6"/>King did affirme the warrants to be ſigned with his owne hand, and the ſervice to be his Majeſties (therefore it is rea<g ref="char:EOLhyphen"/>ſon the men that ſerved, ſhould be paid) But for the Rulers buying or ſelling of any men, they were long ſince cleered upon examination before the Officers of his Majeſties Navie, who ſignified the ſame under their hands, to the Lords of the Privie Counſell, which Certificate and warrant the Rulers have to ſhew. Yet theſe uncivill men are not aſhamed to tax them now againe with the ſame.</p>
+            <p>In 1634. they requeſted <hi>John Taylor</hi> to take ſome paines to move his Majeſtie, and the Lords for the ſuppreſſing of Hackney Coaches; they made a collection of 6 <abbr>d.</abbr> or 12 <abbr>d.</abbr> a<g ref="char:EOLhyphen"/>piece from many of them, to beare the Suit, ſo that <hi>Taylor</hi> Received xixl. 4 <abbr>s.</abbr> of them, he was 16. Moneths about it, and what with paſſing by water, and expen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, and fees to Ma<g ref="char:EOLhyphen"/>ſters of Requeſts, Clerks of the Counſell, the Signet, and o<g ref="char:EOLhyphen"/>ther Officers, and paſſing of ſeales, it coſt <hi>Taylor</hi> 34 <abbr>l.</abbr> beſides loſſe of time, but the Nineteenth of <hi>Jan.</hi> 1635. There was a ſtrict Proclamation for the totall ſuppreſſing of all Hackney Coaches out of London and VVeſtminſter, which Proclama<g ref="char:EOLhyphen"/>tion is yet to be ſeene, and fit to be obſerved; but for all the paines, charge, and loſſe of time, ſome ſhameleſſe fellowes doe tax <hi>Taylor</hi> with couzning them of their money.</p>
+            <p>But to conclude, the Rulers do dare their opoſers to make what proofes they can againſt them of any crimes, they are ſo unjuſtly charged withall; which the Rulers are as innocent as confident, that never any thing ſhall be proved, nor will any of their adverſaries ever dare to goe about it.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
